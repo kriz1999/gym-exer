@@ -1,0 +1,16 @@
+/** @format */
+.form {
+}
+.formInput {
+  margin-top: 10px !important;
+}
+.formInput2 {
+}
+.formBtn {
+  margin-top: 20px !important;
+}
+.form-title {
+  padding: 13px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}

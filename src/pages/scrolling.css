@@ -1,0 +1,17 @@
+/** @format */
+.img-scrolling {
+  width: 100%;
+  height: auto;
+}
+.a-scroll {
+  text-decoration: none;
+}
+.time-video {
+  padding: 5px;
+  background-color: rgba(128, 128, 128, 0.659);
+  width: auto;
+  position: absolute !important;
+  top: 0;
+  right: 0;
+  border-bottom-left-radius: 20px;
+}

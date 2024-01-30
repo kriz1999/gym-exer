@@ -1,0 +1,136 @@
+/** @format */
+
+.Hero-logo {
+  height: 40px;
+  padding-top: 10px;
+}
+
+.sunBtn {
+}
+.sunBtn :nth-child(1) {
+  color: #1b5e20;
+  border: #1b5e20 1px solid;
+  padding: 5px;
+  border-radius: 25%;
+}
+.Hero {
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+.img-bg {
+  position: absolute;
+  right: -10%;
+  bottom: 0%;
+  z-index: 1;
+  height: 600px;
+  width: auto;
+}
+
+/* .Our-gym {
+  color: rgb(31, 164, 176);
+
+  z-index: 0;
+  opacity: 0.1;
+  margin: 3rem;
+  left: 0;
+  bottom: 0;
+  transform: rotate(50deg);
+  -webkit-transform: rotate(-10deg);
+  font-weight: bolder !important
+   ;
+} */
+.Hero-title {
+  position: relative;
+  z-index: 2;
+}
+
+.img-bg-why {
+  position: absolute;
+  left: 0%;
+  top: 100px;
+  z-index: 1;
+  height: 470px;
+  width: 37%;
+  border-bottom-right-radius: 180px;
+  border-top-right-radius: 180px;
+}
+
+.img-bg-Groub {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  height: 500px;
+  width: 40%;
+  border-bottom-left-radius: 180px;
+  border-top-left-radius: 180px;
+}
+
+.img-bg-train {
+  position: absolute;
+  left: 0%;
+  top: 0;
+  z-index: 1;
+  height: 500px;
+  width: 38%;
+  border-bottom-right-radius: 180px;
+  border-top-right-radius: 180px;
+}
+
+@media (max-width: 900px) {
+  .img-bg {
+    z-index: 1;
+    opacity: 0.3;
+    height: 500px;
+  }
+  .Our-gym {
+    z-index: 0;
+    opacity: 0.06;
+  }
+  .img-bg-why {
+    z-index: 1;
+    left: 0%;
+    top: 15%;
+    opacity: 0.3;
+    margin-left: 0;
+    width: 100%;
+    height: 500px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0;
+  }
+  .img-bg-Groub {
+    right: 0%;
+    top: 5%;
+
+    bottom: 0%;
+    z-index: 1;
+    opacity: 0.3;
+    margin-left: 0;
+    width: 100%;
+    height: 450px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+  }
+  .img-bg-train {
+    z-index: 1;
+    left: 0%;
+    top: -5%;
+    opacity: 0.3;
+    margin-left: 0;
+    width: 100%;
+    height: 500px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0;
+  }
+}
+@media (max-width: 350px) {
+  .img-bg-why {
+    display: none;
+  }
+}
+
+.img-bg-why-motion {
+  height: 500px;
+  width: 500px;
+}
