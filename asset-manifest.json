@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gym-exer/static/css/main.4ccf795a.css",
-    "main.js": "/gym-exer/static/js/main.695f82b8.js",
+    "main.js": "/gym-exer/static/js/main.2f195716.js",
     "static/js/787.4159b215.chunk.js": "/gym-exer/static/js/787.4159b215.chunk.js",
     "static/media/maxine-yoga-instructor.png": "/gym-exer/static/media/maxine-yoga-instructor.d44e159842fb9936cfbb.png",
     "static/media/1129027.jpg": "/gym-exer/static/media/1129027.88281249431cdfadfa63.jpg",
@@ -41,11 +41,11 @@
     "static/media/weight.png": "/gym-exer/static/media/weight.45415e37e50e9b1d56a6.png",
     "index.html": "/gym-exer/index.html",
     "main.4ccf795a.css.map": "/gym-exer/static/css/main.4ccf795a.css.map",
-    "main.695f82b8.js.map": "/gym-exer/static/js/main.695f82b8.js.map",
+    "main.2f195716.js.map": "/gym-exer/static/js/main.2f195716.js.map",
     "787.4159b215.chunk.js.map": "/gym-exer/static/js/787.4159b215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ccf795a.css",
-    "static/js/main.695f82b8.js"
+    "static/js/main.2f195716.js"
   ]
 }
